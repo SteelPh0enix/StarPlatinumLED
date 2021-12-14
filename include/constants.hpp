@@ -13,6 +13,7 @@
 
 */
 #include "private_network_constants.hpp"
+#include "website_constants.hpp"
 
 namespace Constants {
 constexpr char const* DNS_DOMAIN_NAME{"starplatinum"};
