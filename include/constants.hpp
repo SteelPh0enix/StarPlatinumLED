@@ -12,12 +12,12 @@
     }
 
 */
-#include "network_constants.hpp"
+#include "private_network_constants.hpp"
 
 namespace Constants {
 constexpr char const* DNS_DOMAIN_NAME{"starplatinum"};
 
 constexpr int LED_PIN{};
 
-constexpr unsigned long SERIAL_BAUDRATE{115200};
+constexpr unsigned long SERIAL_BAUDRATE{74880};
 }  // namespace Constants
